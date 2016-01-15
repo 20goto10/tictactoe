@@ -18,7 +18,7 @@ I will be attempting to convert this into Pente.
 (with board size set to 4)
 
 ```
-X │ X │ O │ O 
+ X │ X │ O │ O 
 ───┼───┼───┼───
  O │ X │   │ O 
 ───┼───┼───┼───
