@@ -13,6 +13,23 @@ Clojure project.
 
 I will be attempting to convert this into Pente.
 
+## Sample output
+
+(with board size set to 4)
+
+```
+X │ X │ O │ O 
+───┼───┼───┼───
+ O │ X │   │ O 
+───┼───┼───┼───
+ X │   │   │ O 
+───┼───┼───┼───
+ X │ X │ X │ X 
+O:  false
+X:  true
+_:  false
+```
+
 ## License
 
 Copyright © 2016 Nobody. 
